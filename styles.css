@@ -25,3 +25,15 @@ img {
     height: auto;
     width: 500px;
 }
+.recipes-list {
+    text-align: center;
+    padding: 48px;
+}
+.recipe-link {
+    padding: 10px;
+    border-width: 5px;
+    border-color: #008000;
+    border-style: dotted;
+    border-radius: 15px;
+    display: inline-block;
+}
